@@ -5,6 +5,6 @@ This repo collects most of materials for the course: Human Centric Computing Lab
 - Lab01-ROS-tutorial  
 - Lab02-FCN-artifact-search  
 - Lab03-ICP-apriltag-gate
-- Lab04-LoCoBot-Basic operation
+- Lab04-Mini-Competition
 
 [materials](https://drive.google.com/drive/folders/15m45DFtSyPrK9sKjp0aYbAcPBdIsRNt3?usp=sharing)
